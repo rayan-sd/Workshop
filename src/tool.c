@@ -9,7 +9,7 @@
 
 static const char *STUDENT_SENTENCES[] = {
     "Ça compile bien sur mon pcc",
-    "Quoi ? Fallait compiler avec les flags ?",
+    "Quoi ? Fallait compiler flags ?",
     "C'est quoi valgrind ?",
     "J'ai oublié de m'inscrire au bootstrap",
     "J'ai un problème avec mon pc",
